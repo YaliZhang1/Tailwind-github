@@ -1,0 +1,5 @@
+#Use PostCss to create tailwind style.https://tailwindcss.com/docs/installation/using-postcss.
+
+1. npm install -D tailwindcss postcss autoprefixer
+2. npx tailwindcss init
+3. npx tailwindcss-cli@latest build -o tailwind.css
